@@ -1,0 +1,11 @@
+{
+    "version": "1.1.0",
+    "download_url": "https://github.com/Notimo-online/notimo-wp-plugin/releases/download/v1.1.0/notimo-1.1.0.zip",
+    "homepage": "https://notimo.online/",
+    "requires": "5.8",
+    "requires_php": "7.4",
+    "sections": {
+      "description": "Notimo WordPress plugin.",
+      "changelog": "<h4>1.1.0</h4><ul><li>Initial remote update support.</li></ul>"
+    }
+  }
