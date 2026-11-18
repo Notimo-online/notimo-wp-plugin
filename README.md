@@ -3,7 +3,7 @@
 **Show the right message at the right moment, on your website.**
 
 [![Website](https://img.shields.io/badge/Website-notimo.online-blue)](https://notimo.online)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
+![Version](https://img.shields.io/badge/version-1.1.0-green)
 ![WordPress](https://img.shields.io/badge/WordPress-5.8%2B-blue)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple)
 ![License](https://img.shields.io/badge/license-GPLv2%2B-orange)
@@ -60,7 +60,7 @@ Manage your website messages from one dashboard without repeatedly updating Word
 | WordPress | 5.8 or higher |
 | Tested up to | WordPress 6.6 |
 | PHP | 7.4 or higher |
-| Plugin Version | 1.0.0 |
+| Plugin Version | 1.1.0 |
 | Notimo Account | Required |
 | License Code | Required |
 
@@ -186,7 +186,7 @@ For more information, visit:
 
 The plugin follows semantic versioning.
 
-**Current Version:** `1.0.0`
+**Current Version:** `1.1.0`
 
 Version numbers follow this structure:
 
@@ -269,7 +269,7 @@ Check your message configuration in the Notimo dashboard and clear any relevant 
 | Minimum WordPress Version | 5.8 |
 | Tested WordPress Version | 6.6 |
 | Minimum PHP Version | 7.4 |
-| Stable Version | 1.0.0 |
+| Stable Version | 1.1.0 |
 | License | GPLv2 or later |
 
 ---
